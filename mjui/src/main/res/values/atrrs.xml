@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <declare-styleable name="MjText">
+    <declare-styleable name="MjTextView">
         <attr name="color1" format="color"/>
         <attr name="color2" format="color"/>
         <attr name="textSize1" format="integer"/>
