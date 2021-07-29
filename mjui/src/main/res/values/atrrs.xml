@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MjText">
+        <attr name="color1" format="color"/>
+        <attr name="color2" format="color"/>
+        <attr name="textSize1" format="integer"/>
+        <attr name="textSize2" format="integer"/>
+        <attr name="needColon" format="boolean"/>
+        <attr name="text1" format="string"/>
+        <attr name="text2" format="string"/>
+        <attr name="bold1" format="boolean"/>
+        <attr name="bold2" format="boolean"/>
+    </declare-styleable>
+
+
+</resources>

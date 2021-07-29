@@ -1,0 +1,3 @@
+rootProject.name = "MjUi"
+include ':app'
+include ':mjui'
