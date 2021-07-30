@@ -54,4 +54,10 @@ public class MjTextView extends LinearLayout {
         }
 
     }
+    public void setTitle(String title){
+        tv_01.setText(title);
+    }
+    public void setContent(String content){
+        tv_02.setText(content);
+    }
 }
